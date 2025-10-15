@@ -155,7 +155,9 @@ Business Impact:
 ## 🧑‍💼 Author
 
 Rithika Ramalingam
+
 🎓 Data Analyst | Python | SQL | Power BI | Machine Learning
+
 📍 India
 
 📧 [rithikaramalingam37@gmail]
