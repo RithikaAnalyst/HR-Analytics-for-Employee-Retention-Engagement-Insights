@@ -126,41 +126,38 @@ DIVIDE(
 
 ## 🧾 5️⃣ Business Recommendations
 
-✅ Implement targeted retention programs in high-risk departments
-✅ Create promotion and recognition programs for early-tenure employees
-✅ Offer flexible work arrangements to improve work-life balance
-✅ Conduct diversity & inclusion workshops in low-scoring teams
-✅ Optimize training programs to increase engagement and performance
+- ✅ Implement targeted retention programs in high-risk departments
+- ✅ Create promotion and recognition programs for early-tenure employees
+- ✅ Offer flexible work arrangements to improve work-life balance
+- ✅ Conduct diversity & inclusion workshops in low-scoring teams
+- ✅ Optimize training programs to increase engagement and performance
 
 ## 6️⃣ Management Report Summary
 
 Overall Findings:
 
-Attrition driven by overtime, low satisfaction, and lack of career growth
-
-Sales & HR have highest turnover
-
-Training and inclusion improve retention and performance
+- Attrition driven by overtime, low satisfaction, and lack of career growth
+- Sales & HR have highest turnover
+- Training and inclusion improve retention and performance
 
 Business Impact:
-
-Potential 20–25% attrition reduction with data-driven HR policies
-
-15–20% improvement in satisfaction and engagement scores
-
-Stronger diversity outcomes through equitable initiatives
+- Potential 20–25% attrition reduction with data-driven HR policies
+- 15–20% improvement in satisfaction and engagement scores
+- Stronger diversity outcomes through equitable initiatives
 
 ## Deliverables
 
-📘 HR_Analytics.ipynb – Python code for data analysis and modeling
-📊 HR_Analytics_Dashboard.pbix – Power BI dashboard file
-📄 HR_Report_Summary.pdf – Management summary report
-🧮 HR_Dataset.csv – Simulated dataset used for analysis
+- 📘 HR_Analytics.ipynb – Python code for data analysis and modeling
+- 📊 HR_Analytics_Dashboard.pbix – Power BI dashboard file
+- 📄 HR_Report_Summary.pdf – Management summary report
+- 🧮 HR_Dataset.csv – Simulated dataset used for analysis
 
 ## 🧑‍💼 Author
 
 Rithika Ramalingam
 🎓 Data Analyst | Python | SQL | Power BI | Machine Learning
 📍 India
+
 📧 [rithikaramalingam37@gmail]
+
 🌐 [https://www.linkedin.com/in/rithika-ramalingam-r-02714b244/]
